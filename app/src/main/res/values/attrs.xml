@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CurveLineView -->
+    <declare-styleable name="CurveLineView">
+        <attr name="pointSpace" format="dimension" />
+    </declare-styleable>
+
+
+    <declare-styleable name="AxesView">
+        <attr name="yAxisPointCount" format="integer" />
+    </declare-styleable>
+</resources>

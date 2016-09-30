@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- CurveLineView -->
+    <dimen name="curve_line_view_height">400dp</dimen>
+    <dimen name="curve_point_default_space">30dp</dimen>
+    <dimen name="curve_line_width">1dp</dimen>
+    <dimen name="curve_line_view_offset">40dp</dimen>
+
+    <!-- AxesView -->
+    <dimen name="axes_view_offset">30dp</dimen>
+    <dimen name="axes_view_text_size">14sp</dimen>
+    <dimen name="axes_view_arrow_size">6dp</dimen>
+    <integer name="y_axis_point_count">5</integer>
+</resources>
